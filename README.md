@@ -7,7 +7,7 @@ Dependencies for Python: pandas, NumPy, COMPAS, Matplotlib, NetworkX, LXML.
 Dependencies for Grasshopper: Human, LunchBox, LunchBoxML.
 ## How to use: 
 Step 1, Importing IFC. 
-Open the open-source IFC file with Autodesk’s Revit. In Revit, open the Dynamo file `Home.dyn' which is located in `geometry\_software' directory of the repository. This step will produce two output files, one is for building's room boundaries, and another is for building's door locations.
+Open the open-source IFC file with Autodesk’s Revit. In Revit, open the Dynamo file 'Home.dyn' which is located in 'geometry\_software' directory of the repository. This step will produce two output files, one is for building's room boundaries, and another is for building's door locations.
     
 Step 2, Generating IndoorGML. This step can be subdivided into five sub-steps. 
     
